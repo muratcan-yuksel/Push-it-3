@@ -49,7 +49,7 @@ function btn11() {
   if (square1.style.background == 'grey') {
     square1.style.background = 'black';
   } else if (square1.style.background == 'black') {
-    alert('miss');
+    alert('missed');
   }
   button11.disabled = true;
 }
@@ -60,7 +60,7 @@ function btn12() {
   if (square3.style.background == 'grey') {
     square3.style.background = 'black';
   } else if (square3.style.background == 'black') {
-    alert('miss');
+    alert('missed');
   }
   button12.disabled = true;
 }
