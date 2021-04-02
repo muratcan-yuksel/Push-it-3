@@ -17,9 +17,7 @@ const button2 = document.getElementById('button-2');
 const button11 = document.getElementById('button-1-1');
 const button12 = document.getElementById('button-1-2');
 
-// button2.addEventListener('click', function () {
-//   square2.style.background = 'black';
-// });
+
 
 function btn2() {
   if (square1.style.background == 'grey') {

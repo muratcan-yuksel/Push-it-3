@@ -66,6 +66,18 @@ background: -webkit-linear-gradient(left, #C9F3C4, #9B4962);
 background: -moz-linear-gradient(left, #C9F3C4, #9B4962);
 background: linear-gradient(to right, #C9F3C4, #9B4962);
 }
+#left1{
+    grid-column: 6;
+    grid-row:6;
+}
+#left2{
+    grid-column: 6;
+    grid-row:4;
+}
+#down{
+    grid-column: 5;
+    grid-row:3;
+}
 #refresh{
     width:100px;
     height:45px;
